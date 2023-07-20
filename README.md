@@ -18,5 +18,5 @@
 "ShowTime": "10",
 "Button": "پـیـوسـتـن",
 "ButtonCancell": "بـعـدا",
-"Show": "off"
+"Show": "on"
 }
